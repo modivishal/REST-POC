@@ -1,6 +1,6 @@
 build/
-logs/
 dev/
+mih_dev/
 bin/
 dist/
 out/
@@ -8,12 +8,14 @@ bin-groovy/
 .svn/
 .metadata/
 .idea/
+.gradle/
 *.class
 *.bak
 *.log
 *.ipr
 *.iws
 *.iml
+*.eml
 *.ids
 *.classpath
 *.project
@@ -22,3 +24,7 @@ Thumbs.db
 .idea
 .project
 environmentLocator.properties
+rebel.xml
+.swp
+clean.bat
+
